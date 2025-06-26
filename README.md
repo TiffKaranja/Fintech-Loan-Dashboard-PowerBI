@@ -14,7 +14,7 @@ This interactive dashboard analyzes loan data for a fictional fintech company, p
 - Visualization Design
 
 ## Screenshots
-I have added screenshots
+I have added a few screenshots
 
 ## About the Project
 This project was designed to simulate real-world fintech reporting, showcasing my data visualization and storytelling skills using Power BI.
